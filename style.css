@@ -1,0 +1,28 @@
+.col-sm-6{
+  margin: 50px;
+  text-align: left;
+  border-radius: 30px;
+  background-color: lightblue;
+  padding: 20px;
+}
+.profilepic{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ border-radius: 20px;
+ width: 150px;
+}
+.data{
+  font-family: cursive;
+  margin: 2px;
+  border: 5px;
+  border-radius: 10px;
+  background-color: white;
+  padding: 5px;
+}
+#email{
+  padding: 5px;
+}
+#earphone{
+  padding: 5px;
+}
